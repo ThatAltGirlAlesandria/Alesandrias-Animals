@@ -1,0 +1,25 @@
+h1 {
+  color: rgb(140, 140, 247);
+  text-align: center;
+}
+
+h2 {
+  color: rgb(140, 140, 247);
+  font-style: bold;
+  text-align: center;
+}
+
+ol {
+  color: rgb(140, 140, 247);
+  font-family: sans-serif;
+}
+
+ul {
+  color: rgb(140, 140, 247);
+  font-size: 20px;
+  line-height: 30px;
+}
+
+body {
+  background-color: rgb(52, 50, 50);
+}
